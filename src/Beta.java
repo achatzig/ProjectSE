@@ -7,6 +7,6 @@ public class Beta {
 
 	
 	public void m2() {
-		System.out.println("Test m2");
+		System.out.println("Test m4");
 	}
 }
