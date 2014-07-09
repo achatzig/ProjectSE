@@ -5,4 +5,8 @@ public class Beta {
 		System.out.println("test");
 	}
 
+	
+	public void m2() {
+		
+	}
 }
