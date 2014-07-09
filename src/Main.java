@@ -8,5 +8,9 @@ public class Main {
 		// TODO Auto-generated method stub
 
 	}
+	
+	public void test() {
+		
+	}
 
 }
